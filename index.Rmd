@@ -133,6 +133,7 @@ source("https://raw.githubusercontent.com/statOmics/SGA/master/install.R")
 <!---->
 - airway example: [html](./airway.html)
 - Parathyroid Example (quasi-edgeR): [html](./parathyroid.html), [pdf](./parathyroid.pdf)
+- airway transcript quantification: [html](./airway_salmon_edgeR.html)
 <!--
 - airway transcript quantification: [html](./airway_salmon_edgeR.html)
 <!---->
